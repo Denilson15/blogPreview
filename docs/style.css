@@ -143,3 +143,7 @@ a{
 a:hover{
     color: hsl(47, 88%, 63%);
 }
+.creator{
+    text-decoration: underline;
+    color: white;
+}
