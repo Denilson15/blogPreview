@@ -85,7 +85,7 @@ body{
     gap: 1rem;
     font-family: "Figtree", serif;
 }
-main{
+section{
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     border: 1.675px solid black;
@@ -94,7 +94,7 @@ main{
     font-size: 1rem;
     box-shadow: 7.5px 10px 1px rgb(0, 0, 0);
 }
-h1{
+.title{
     font-size: 1.5rem;
     font-weight: 800;
 }
